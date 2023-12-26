@@ -183,5 +183,27 @@ at the borders of her hometown</description>
 I take the title of this blog from the Itinerarium mentis in deum, a guidebook for union with God written by one of the great medieval theologians of the Franciscan order, Bonaventure of Bagnoregio.</description>
     </item>
     
+    <item>
+      <title>about my research</title>
+      <link>http://example.org/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/research/</guid>
+      <description>My research specialties include medieval theology (particularly early mendicant theologies) &amp;amp; christology. I also have research interests in soteriology, poverty, apocalypticism (medieval &amp;amp; contemporary), &amp;amp; trinitarian theology.
+
+I’m currently preparing for publication a monograph on the christology of the Summa halensis, a collaborative work of the Franciscans at the University of Paris during the early 1240s. In this book, tentatively titled Christ the Penitent: The Early Franciscans &amp;amp; Scholastic Theology, I intend to show how the fratres developed what I have come to call a ‘penitential christology’: Christ makes satisfaction for sin not by dying, but by feeling contrition at human sin.</description>
+    </item>
+    
+    <item>
+      <title>about my teaching</title>
+      <link>http://example.org/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/</guid>
+      <description>To study theology is to ask questions about God &amp;amp; things pertaining to God, &amp;amp; to think critically about possible answers. Students of theology don’t do this unaided; in the archive that is the history of Christian theology sits an enormous catalog of methods, questions, approaches, answers, &amp;amp; discussions from a diversity of thinkers, traditions, &amp;amp; communities.
+
+My teaching aims, in part, to show students how to explore that archive &amp;amp; put its materials to use as they navigate these fundamental questions of human existence &amp;amp; divine reality.</description>
+    </item>
+    
   </channel>
 </rss>
