@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'speculatio pauperis in deserto'
 theme = "rocinante"
-paginate = 3
+paginate = 7
 
 [markup]
 	[markup.highlight]
