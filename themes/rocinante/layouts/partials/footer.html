@@ -1,0 +1,8 @@
+{{ if not .IsNode }}
+  <div class="content-container">
+    <div class="content">
+      {{- partial "about.html" . -}}
+      © Copyright <script>document.write(new Date().getFullYear())</script> Andrew Gertner Belfield.
+    </div>
+  </div>
+{{ end }}

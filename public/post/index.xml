@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on speculatio pauperis in deserto</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on speculatio pauperis in deserto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Venerable night: brilliant &amp; solemn</title>
+      <link>http://example.org/post/venerable-night/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/venerable-night/</guid>
+      <description>It was winter in Italy, eight hundred years ago, &amp;amp; Assisi’s poverello had an idea.1 Francis of Assisi had become obsessed with the words &amp;amp; deeds of Jesus Christ, his rustic parables &amp;amp; simple gestures that, despite (or perhaps because of) their lowliness, communicated divine majesty &amp;amp; awe. According to an early biographer,2 “so thoroughly did the humility of the incarnation &amp;amp; the charity of the passion occupy his memory that he scarcely wanted to think of anything else.</description>
+    </item>
+    
+    <item>
+      <title>Writing assignments in Theology 101</title>
+      <link>http://example.org/writing-assignments/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/writing-assignments/</guid>
+      <description>(Well, not quite Theology 101; rather, Theology &amp;amp; Franciscan Studies 101, which isn&amp;rsquo;t exactly an intro to theology.)
+I&amp;rsquo;m finally getting close to a &amp;ldquo;final form&amp;rdquo; for my sections of &amp;ldquo;The Way of Francis &amp;amp; Clare.” The course schedule, including reading assignments, is mostly set, but what&amp;rsquo;s really tied together the entire course is the integration of a service learning project throughout the semester.
+Throughout the semester, students take what they learn about Franciscan values to design, plan, &amp;amp; implement a service project that does some good for the local community.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on speculatio pauperis in deserto</title>
+    <link>http://example.org/pages/</link>
+    <description>Recent content in Pages on speculatio pauperis in deserto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hi&amp;mdash;I’m Andrew Belfield, &amp;amp; I’m an assistant professor of theology &amp;amp; Franciscan studies at St. Bonaventure University. I think of this blog as an online record of what I’m reading, what I’m thinking about, &amp;amp; what I’m seeing: somewhere between a commonplace book, a journal, &amp;amp; a scrapbook, I suppose.
+I take the title of this blog from the Itinerarium mentis in deum, a guidebook for union with God written by one of the great medieval theologians of the Franciscan order, Bonaventure of Bagnoregio.</description>
+    </item>
+    
+  </channel>
+</rss>
