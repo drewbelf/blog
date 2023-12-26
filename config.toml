@@ -25,13 +25,21 @@ paginate = 7
 			name = "about this blog"
 			href = "/about"
 		[[params.links.link]]
-			name = "tags"
-			href = "/tags"
-	[[params.links.link]]
-			name = "email me"
-			href = "/contact"
-			smart_email_link = true
+			name = "about my teaching"
+			href = "/teaching"
+		[[params.links.link]]
+			name = "about my research"
+			href = "/research"
+
+	[[params.links]]
+		[[params.links.link]]
+			name = "my cv"
+			href = "/cv"
 		[[params.links.link]]
 			name = "my micro.blog"
 			href = "https://blog.andrewbelfield.com"
 			new_tab = false
+		[[params.links.link]]
+			name = "email me"
+			href = "/contact"
+			smart_email_link = true
