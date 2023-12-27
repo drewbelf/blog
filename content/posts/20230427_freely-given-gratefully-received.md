@@ -1,7 +1,7 @@
 ---
 title: "Freely given & gratefully received"
 date: 2023-04-27T12:15:31-05:00
-tags: [theology]
+tags: [theology, literature]
 ---
 
 > 'What do you keep on arguing for? I'm only telling you the sort of chap I am. I only want my rights. I'm not asking for anybody's bleeding charity.'

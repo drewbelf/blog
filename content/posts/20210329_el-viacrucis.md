@@ -1,7 +1,7 @@
 ---
 title: "El víacrucis"
 date: 2021-03-29T14:08:57-05:00
-tags: [theology, justice, barton]
+tags: [theology, justice, barton, prayer]
 ---
 
 Holy Week of any year---that week of prayer & fasting ordered to the cross and, eventually, the empty tomb—always has a nearness to the first Holy Week, as the drama of the liturgy moves modern-day Christians through the drama of the passion. Holy Week 2020, however, seemed especially near. The reality of coronavirus was setting in, along with the bitter realization it would be a long time before we could safely gather with family, friends, & religious communities. People all around the world were (and still are) dying, & the coronavirus crisis exacerbated existing injustices in our world: poverty, lack of access to healthcare, racism. It was not hard to imagine the disciples' despair, their feeling that the world crumbled before them.

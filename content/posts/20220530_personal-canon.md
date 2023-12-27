@@ -1,7 +1,7 @@
 ---
 title: "A personal canon (in progress)"
 date: 2022-05-30T14:15:51-05:00
-tags: [theology, reading, life]
+tags: [theology, reading, life, literature]
 ---
 
 Yesterday I saw a tweet floating around asking for your "personal canon," that is, which are the books that you have used to understand the world? Limiting myself only to written works (and not, say, music or film), here's what I would say, roughly ordered according to when I encountered these books:
