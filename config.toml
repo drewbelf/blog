@@ -15,6 +15,7 @@ paginate = 7
 	email = "ambelfield@gmail.com"
 	favicon = "icons/favicon.png"
 	about = ""
+	disableMarginNotes = false
 
 	[[params.links]]
 		[[params.links.link]]
@@ -25,7 +26,7 @@ paginate = 7
 			name = "about this blog"
 			href = "/about"
 		[[params.links.link]]
-			name = "my florilegia"
+			name = "florilegium andreae"
 			href = "https://micro.andrewbelfield.com"
 			new_tab = false
 		[[params.links.link]]
