@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on speculatio pauperis in deserto</title>
-    <link>http://example.org/tags/</link>
+    <link>http://blog.andrewbelfield.com/tags/</link>
     <description>Recent content in Tags on speculatio pauperis in deserto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Dec 2023 11:33:05 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 11:33:05 -0500</lastBuildDate><atom:link href="http://blog.andrewbelfield.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>theology</title>
-      <link>http://example.org/tags/theology/</link>
+      <link>http://blog.andrewbelfield.com/tags/theology/</link>
       <pubDate>Sat, 23 Dec 2023 11:33:05 -0500</pubDate>
       
-      <guid>http://example.org/tags/theology/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/theology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>justice</title>
-      <link>http://example.org/tags/justice/</link>
+      <link>http://blog.andrewbelfield.com/tags/justice/</link>
       <pubDate>Mon, 04 Dec 2023 17:00:00 -0500</pubDate>
       
-      <guid>http://example.org/tags/justice/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/justice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teaching</title>
-      <link>http://example.org/tags/teaching/</link>
+      <link>http://blog.andrewbelfield.com/tags/teaching/</link>
       <pubDate>Sun, 03 Sep 2023 14:36:55 -0500</pubDate>
       
-      <guid>http://example.org/tags/teaching/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>film</title>
-      <link>http://example.org/tags/film/</link>
+      <link>http://blog.andrewbelfield.com/tags/film/</link>
       <pubDate>Mon, 24 Jul 2023 14:35:24 -0500</pubDate>
       
-      <guid>http://example.org/tags/film/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/film/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reading</title>
-      <link>http://example.org/tags/reading/</link>
+      <link>http://blog.andrewbelfield.com/tags/reading/</link>
       <pubDate>Wed, 14 Jun 2023 14:33:33 -0500</pubDate>
       
-      <guid>http://example.org/tags/reading/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>http://example.org/tags/life/</link>
+      <link>http://blog.andrewbelfield.com/tags/life/</link>
       <pubDate>Sat, 31 Dec 2022 14:17:41 -0500</pubDate>
       
-      <guid>http://example.org/tags/life/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>barton</title>
-      <link>http://example.org/tags/barton/</link>
+      <link>http://blog.andrewbelfield.com/tags/barton/</link>
       <pubDate>Mon, 29 Mar 2021 14:08:57 -0500</pubDate>
       
-      <guid>http://example.org/tags/barton/</guid>
+      <guid>http://blog.andrewbelfield.com/tags/barton/</guid>
       <description></description>
     </item>
     

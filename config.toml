@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://blog.andrewbelfield.com/'
 languageCode = 'en-us'
 title = 'speculatio pauperis in deserto'
 theme = "rocinante"
