@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.andrewbelfield.com/posts/20231227_a-new-blog/</loc>
-    <lastmod>2023-12-27T08:00:00-05:00</lastmod>
+    <loc>http://blog.andrewbelfield.com/tags/higher-education/</loc>
+    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/</loc>
-    <lastmod>2023-12-27T08:00:00-05:00</lastmod>
+    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/</loc>
-    <lastmod>2023-12-27T08:00:00-05:00</lastmod>
+    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/</loc>
+    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/teaching/</loc>
+    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/20231228_why-do-we-need-the-humanities/</loc>
+    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/20231227_a-new-blog/</loc>
     <lastmod>2023-12-27T08:00:00-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/technology/</loc>
@@ -43,9 +52,6 @@
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20231031_logbook/</loc>
     <lastmod>2023-10-31T00:40:18-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/teaching/</loc>
-    <lastmod>2023-09-03T14:36:55-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20230903_writing-assignments-in-theology-101/</loc>
     <lastmod>2023-09-03T14:36:55-05:00</lastmod>
