@@ -112,7 +112,7 @@ hr {
 }
 
 pre, code {
-  font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+  font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
   border-radius: 3px;
 }
 code {
@@ -184,11 +184,12 @@ sup, sub {
   font-size: 0.8em;
 }
 sup {
+  line-height: 0;
   vertical-align: super;
 }
 
 main {
-  max-width: 740px;
+  max-width: 65ch;
   padding: 0 20px;
   margin: 0 auto;
 }
@@ -231,7 +232,7 @@ header h2 {
   }
   .date h5 {
     color: var(--color-secondary);
-    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    font-family: inherit;
     margin: 0;
   }
   margin-bottom: 1.5em;
