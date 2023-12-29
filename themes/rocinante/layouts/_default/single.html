@@ -12,7 +12,6 @@
         </article>
         {{ with .Params.tags }}
             <div class="tags">
-                <span title="Tags">🏷</span>
                 <div class="horizontal-links links">
                     {{ range . }}{{ with $.Site.GetPage (printf "/tags/%s" ( . | urlize)) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end }}
                 </div>
