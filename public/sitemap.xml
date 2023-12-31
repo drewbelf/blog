@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.andrewbelfield.com/tags/film/</loc>
+    <lastmod>2023-12-31T10:18:10-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/2023/1231_logbook/</loc>
+    <lastmod>2023-12-31T10:18:10-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/</loc>
+    <lastmod>2023-12-31T10:18:10-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/reading/</loc>
+    <lastmod>2023-12-31T10:18:10-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/</loc>
+    <lastmod>2023-12-31T10:18:10-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/</loc>
+    <lastmod>2023-12-31T10:18:10-05:00</lastmod>
+  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/catholic-news/</loc>
     <lastmod>2023-12-29T11:24:32-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/2023/1229_frequent-spontaneous-blessing/</loc>
-    <lastmod>2023-12-29T11:24:32-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/posts/</loc>
-    <lastmod>2023-12-29T11:24:32-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/</loc>
-    <lastmod>2023-12-29T11:24:32-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/</loc>
     <lastmod>2023-12-29T11:24:32-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/theology/</loc>
@@ -44,16 +53,10 @@
     <loc>http://blog.andrewbelfield.com/posts/20231204_venerable-night/</loc>
     <lastmod>2023-12-04T17:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/film/</loc>
-    <lastmod>2023-11-30T00:38:35-05:00</lastmod>
-  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/logbook/</loc>
     <lastmod>2023-11-30T00:38:35-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20231130_logbook/</loc>
-    <lastmod>2023-11-30T00:38:35-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/reading/</loc>
     <lastmod>2023-11-30T00:38:35-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20231031_logbook/</loc>
