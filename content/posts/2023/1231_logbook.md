@@ -1,7 +1,7 @@
 ---
 title: "Logbook—December 2023"
 date: 2023-12-31T10:18:10-05:00
-tags: [reading, film, logbook]
+tags: [logbook, literature, film]
 ---
 
 In which I read *Bullshit Jobs: A Theory* & *Swimming in the Dark* & *Silence: A Novel* & *Way Back to God: The Spiritual Theology of St Bonaventure* & *Doppleganger: A Trip into the Mirror World*; & watched *The Grapes of Wrath* & *May December* & *The Holdovers* & *The Hunger Games: The Ballad of Songbirds & Snakes* & *Napoleon* & *The Muppets Christmas Carol* & *Home Alone* & *Poor Things* & *It's a Wonderful Life* & *Saltburn* & *The Color Purple* (2023).

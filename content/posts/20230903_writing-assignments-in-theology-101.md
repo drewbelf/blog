@@ -1,7 +1,7 @@
 ---
 title: "Writing assignments in Theology 101"
 date: 2023-09-03T14:36:55-05:00
-tags: [theology, teaching]
+tags: [reflection, teaching]
 ---
 
 (Well, not quite Theology 101; rather, [Theology & Franciscan Studies 101](https://blog.andrewbelfield.com/posts/20230623_on-teaching-francis-clare), which isn't exactly an intro to theology.)

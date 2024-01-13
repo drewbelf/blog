@@ -1,7 +1,7 @@
 ---
 title: "That attention is love"
 date: 2019-05-18T13:30:14-05:00
-tags: [theology, life]
+tags: [speculation, marriage, love, grace]
 ---
 
 In the very year of our engagement, *Lady Bird* was released.  

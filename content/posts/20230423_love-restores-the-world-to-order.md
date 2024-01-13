@@ -1,7 +1,7 @@
 ---
 title: "Love restores the world to order"
 date: 2023-04-23T14:32:17-05:00
-tags: [theology, justice]
+tags: [speculation, love, christology, justice]
 ---
 
 [Walter Kasper](https://micro.blog/books/9780567077592) on kingdom of God:

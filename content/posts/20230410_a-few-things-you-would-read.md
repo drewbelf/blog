@@ -1,7 +1,7 @@
 ---
 title: "A few things you would read if you wanted to figure out what I get out of christianity"
 date: 2023-04-10T14:30:02-05:00
-tags: [theology, reading, literature]
+tags: [reflection, literature]
 ---
 
 Inspired by [Phil Christman's recent post of the same name](https://philipchristman.substack.com/p/a-few-things-you-would-read-if-you), here's a list of a few things you would read if you wanted to figure out what *I* get out of Christianity.

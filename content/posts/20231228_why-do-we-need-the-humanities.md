@@ -1,7 +1,7 @@
 ---
 title: "Why do we need the humanities if no one is majoring in them?"
 date: 2023-12-28T08:24:37-05:00
-tags: [higher education, teaching]
+tags: [opinion, higher education, teaching]
 ---
 
 [Clarkson University announces plan to phase out majors in humanities, communications](https://www.northcountrypublicradio.org/news/story/49014/20231222/clarkson-announces-plan-to-phase-out-majors-in-humanties-communications). 

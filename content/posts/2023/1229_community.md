@@ -1,7 +1,7 @@
 ---
 title: "1229_community"
 date: 2023-12-29T10:35:48-05:00
-tags: [film]
+tags: [criticism, film]
 draft: true
 ---
 

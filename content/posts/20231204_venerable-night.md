@@ -1,7 +1,7 @@
 ---
 title: "Venerable night: brilliant & solemn"
 date: 2023-12-04T17:00:00-05:00
-tags: [theology, justice]
+tags: [speculation, christology, justice]
 ---
 
 It was winter in Italy, eight hundred years ago, & Assisi’s *poverello* had an idea.[^0] Francis of Assisi had become obsessed with the words & deeds of Jesus Christ, his rustic parables & simple gestures that, despite (or perhaps because of) their lowliness, communicated divine majesty & awe. According to an early biographer,[^1] “so thoroughly did the humility of the incarnation & the charity of the passion occupy his memory that he scarcely wanted to think of anything else.” Francis was always imagining new ways to convey this humility & charity to anyone who would listen.

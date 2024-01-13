@@ -1,7 +1,7 @@
 ---
 title: "On teaching Francis & Clare"
 date: 2023-06-23T09:08:58-05:00
-tags: [theology, teaching]
+tags: [reflection, teaching]
 ---
 
 How to teach a course on Francis & Clare of Assisi?[^*] The 101 class offered by the Department of Theology & Franciscan Studies at St. Bonaventure University is titled “The Way of Francis & Clare.” This course aims to introduce students to the Franciscan roots that underlie the mission & values of SBU by a semester-long study of the lives & writings of Francis & Clare.

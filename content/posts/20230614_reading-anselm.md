@@ -1,7 +1,7 @@
 ---
 title: "Reading Anselm"
 date: 2023-06-14T14:33:33-05:00
-tags: [theology, justice, reading]
+tags: [criticism, justice, christology]
 ---
 
 I admire the aim in Elizabeth Johnson's *[Creation and the Cross: The Mercy of God for a Planet in Peril](https://micro.blog/books/9781626982666)*: to produce a theology that considers how Jesus's life, death, & resurrection are good news for the whole cosmos, particularly in the context of ecological crisis. & while I don't disagree with some of the conclusions (presented chiefly in book 6), ironically the particularity of Jesus's life (natal & risen) & his death don't seem to determine the conclusions as much as the work's title might lead one to expect.

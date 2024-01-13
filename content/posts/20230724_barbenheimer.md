@@ -1,7 +1,7 @@
 ---
 title: "Barbenheimer"
 date: 2023-07-24T14:35:24-05:00
-tags: [film]
+tags: [criticism, film]
 ---
 
 I really enjoyed both *Barbie* & *Oppenheimer*; I plan to see both again soon, but some initial thoughts:

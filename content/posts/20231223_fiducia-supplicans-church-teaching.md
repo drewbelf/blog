@@ -1,7 +1,7 @@
 ---
 title: "Fiducia supplicans & church teaching"
 date: 2023-12-23T11:33:05-05:00
-tags: [catholic news, theology]
+tags: [speculation, theological method, tradition]
 ---
 
 I've seen a fair amount of hand wringing over *[Fiducia supplicans](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231218_fiducia-supplicans_en.html)* where the consistency of church teaching & papal authority are concerned. The concern goes something like this: *Fiducia supplicans*, signed by Pope Francis, reaffirms the Catholic church's historical teaching on marriage (as possible only between a woman & a man) while allowing for blessings of couples who do not conform to that teaching of marriage. This means the Catholic church will have to either forge ahead, perhaps revising its understanding of marriage to include partnerships between persons of the same gender, or pull back from *Fiducia supplicans* to reaffirm its historical understanding of marriage. Either way, the concern is the consistency of Catholic teaching. How can the church claim authority in matters of faith & morals if its positions on those matters change?

@@ -1,7 +1,7 @@
 ---
 title: "On baptism"
 date: 2020-09-22T14:04:44-05:00
-tags: [theology, justice]
+tags: [speculation, baptism, justice]
 ---
 
 Dear C—,[^1]

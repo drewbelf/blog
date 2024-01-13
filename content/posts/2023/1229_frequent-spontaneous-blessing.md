@@ -1,7 +1,7 @@
 ---
 title: "Frequent & spontaneous blessing"
 date: 2023-12-29T11:24:32-05:00
-tags: [catholic news, theology]
+tags: [opinion, catholic church, grace, love]
 ---
 
 *[Fiducia supplicans](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20231218_fiducia-supplicans_en.html)* presents itself as "an innovative contribution *to the pastoral meaning of blessings*, permitting a broadening & enrichment of the classical understanding of blessings" (emphasis original). [I have already said something about how this "innovation" might fit into a Catholic theological project, particularly where doctrinal development is concerned](/posts/20231223_fiducia-supplicans-church-teaching/). I'd like now to comment more broadly on the document itself & what it has to say about blessings of couples. My main takeaway from *Fiducia supplicans* is that all persons & couples, including but not only those couples whose relationships do not conform to the church's expectations, stand in need of God's love & mercy, & so spontaneous, frequent, & abundant blessing of all persons & couples ought to be a regular feature of the church's life as "sacrament of God's infinite love" (§43).[^2]

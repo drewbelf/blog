@@ -1,7 +1,7 @@
 ---
 title: "Top tens in 2023"
 date: 2023-12-31T21:20:54-05:00
-tags: [reading, literature, film]
+tags: [logbook, literature, film]
 ---
 
 Here are the top 10 new-to-me books I read in 2023, in the order I read them:

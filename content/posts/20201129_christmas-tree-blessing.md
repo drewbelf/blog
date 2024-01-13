@@ -1,7 +1,7 @@
 ---
 title: "A Christmas tree blessing"
 date: 2020-11-29T14:07:04-05:00
-tags: [theology, justice, barton, prayer]
+tags: [speculation, justice, barton, prayer]
 ---
 
 Good & gracious God,  
