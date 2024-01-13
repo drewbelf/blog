@@ -1,7 +1,7 @@
 ---
 title: The pattern & prototype of all sin
 date: 2024-01-13T11:23:31-05:00
-tags: [interpretation, tv, sin]
+tags: [criticism, tv, sin]
 ---
 
 In the eighth episode of *[Beef](https://www.youtube.com/watch?v=AFPIMHBzGDs)*, in one of a series of flashbacks filling in the backstories of the two beefing protagonists (or, better, the two antagonists), we see a particularly affecting scene between Danny & his younger brother, Paul that illustrates what Thomas Merton calls "the pattern & prototype of all sin." (Spoilers follow.)
