@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.andrewbelfield.com/posts/</loc>
+    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/</loc>
+    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/</loc>
+    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/2024/0113_pattern-prototype-of-all-sin/</loc>
+    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/theology/</loc>
+    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/tv/</loc>
+    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
+  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/film/</loc>
     <lastmod>2023-12-31T21:20:54-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/literature/</loc>
     <lastmod>2023-12-31T21:20:54-05:00</lastmod>
   </url><url>
-    <loc>http://blog.andrewbelfield.com/posts/</loc>
-    <lastmod>2023-12-31T21:20:54-05:00</lastmod>
-  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/reading/</loc>
-    <lastmod>2023-12-31T21:20:54-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/</loc>
-    <lastmod>2023-12-31T21:20:54-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/</loc>
     <lastmod>2023-12-31T21:20:54-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/2023/1231_top-tens/</loc>
@@ -33,9 +42,6 @@
     <lastmod>2023-12-29T11:24:32-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/2023/1229_frequent-spontaneous-blessing/</loc>
-    <lastmod>2023-12-29T11:24:32-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/theology/</loc>
     <lastmod>2023-12-29T11:24:32-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/higher-education/</loc>
