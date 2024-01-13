@@ -15,7 +15,6 @@ paginate = 7
 	email = "ambelfield@gmail.com"
 	favicon = "icons/favicon.png"
 	about = ""
-	disableMarginNotes = false
 
 	[[params.links]]
 		[[params.links.link]]
