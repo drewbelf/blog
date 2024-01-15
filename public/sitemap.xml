@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.andrewbelfield.com/posts/2024/0115_first-things-first/</loc>
+    <lastmod>2024-01-15T11:05:29-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/</loc>
+    <lastmod>2024-01-15T11:05:29-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/reflection/</loc>
+    <lastmod>2024-01-15T11:05:29-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/</loc>
+    <lastmod>2024-01-15T11:05:29-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/</loc>
+    <lastmod>2024-01-15T11:05:29-05:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/teaching/</loc>
+    <lastmod>2024-01-15T11:05:29-05:00</lastmod>
+  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/criticism/</loc>
     <lastmod>2024-01-13T11:23:31-05:00</lastmod>
   </url><url>
-    <loc>http://blog.andrewbelfield.com/posts/</loc>
-    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
-  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/sin/</loc>
-    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/</loc>
-    <lastmod>2024-01-13T11:23:31-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/</loc>
     <lastmod>2024-01-13T11:23:31-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/2024/0113_pattern-prototype-of-all-sin/</loc>
@@ -56,16 +65,10 @@
     <loc>http://blog.andrewbelfield.com/tags/higher-education/</loc>
     <lastmod>2023-12-28T08:24:37-05:00</lastmod>
   </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/teaching/</loc>
-    <lastmod>2023-12-28T08:24:37-05:00</lastmod>
-  </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20231228_why-do-we-need-the-humanities/</loc>
     <lastmod>2023-12-28T08:24:37-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20231227_a-new-blog/</loc>
-    <lastmod>2023-12-27T08:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/reflection/</loc>
     <lastmod>2023-12-27T08:00:00-05:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/20231223_fiducia-supplicans-church-teaching/</loc>
