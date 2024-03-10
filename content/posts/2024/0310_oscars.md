@@ -1,38 +1,47 @@
 ---
-title: "Oscars: hopes & predictions"
-date: 2024-02-28T14:42:12-05:00
+title: "Best Picture nominees, ranked"
+date: 2024-03-10T08:29:12-05:00
 tags: [opinion, film]
-draft: true
 ---
 
-The Oscars air tonight. I don't ordinarily pay so much attention to awards shows but I've seen all the films nominated in the main 6 categories. Here are my hopes & my predictions for those main 6 categories: lead actor, supporting actor, lead actress, supporting actress, director, & picture.
+Here I rank the Oscars nominees for Best Picture, from least favorite to favorite.
 
-## Actor in a leading role
+## 10. Maestro
 
-**Hope**: Jeffrey Wright, *American Fiction*
+Everything about Bradley Cooper's Leonard Bernstein biopic just felt so effortful, especially the performances. I have little to say about it because the film was just so uninteresting.
 
-I enjoyed this movie pretty well, & it's the kind of movie I'd like to see recognized at the Oscars. Wright's performance was excellent: restrained even while exasperated, self-righteous but nevertheless flawed.
+## 9. The Zone of Interest
 
-**Prediction**: Cillian Murphy, *Oppenheimer*
+While I appreciated some features of Jonathan Glazer's exploration of the mundane evil of the Holocaust, the film as a whole felt empty. (Maybe that was the idea.)
 
-Murphy's widely praised performance is coming into the Oscars with a lot of momentum (as is *Oppenheimer* in general): he's won a Golden Globe, SAG, and BAFTA. & it was a remarkable performance, if a bit effortful. I'd be surprised if Murphy didn't win.
+## 8. Poor Things
 
-## Actor in a supporting role
+I cannot understand the enthusiasm this film garnered. Yorgos Lanthimos's riff on *Frankenstein*, while delightful to look at & entertaining at times, is so singularly interested in Bella's sexual liberation at the almost utter exclusion of any other aspect of her that the film ends up being tedious & thin. I wanted to like it much more than I did.
 
-**Hope**: Robert Downey, Jr., *Oppenheimer*
+## 7. Anatomy of a Fall
 
-On this category, it's close for me between Robert De Niro in *Killers of the Flower Moon* & Downey. De Niro was incredible, but Downey really held my attention in a way De Niro didn't quite. I hope it goes to Downey.
+I liked Justine Triet's courtroom drama; it reminded me, at times, of Albert Camus's *The Stranger*. Especially riveting was the incredibly grim but also totally accurate fight between Sandra & her husband.
 
-**Prediction**: Robert Downey, Jr., *Oppenheimer*
+## 6. American Fiction
 
-Like his screen partner Murphy, Downey is coming into the Oscars with plenty of momentum (Golden Globe, SAG, BAFTA). I think he's got the Oscar locked up.
+I really enjoyed this satire of the expectations the publishing world (& entertainment culture more broadly) burdens Black artists with. It often felt less like a single story than two different stories spliced together, which unfortunately left the film as a whole a little disjointed. Jeffrey Wright's performance is amazing. I don't think he'll win Best Actor, but I think he should.
 
-## Actress in a leading role
+## 5. The Holdovers
 
-**Hope**: Lily Gladstone,  *Killers of the Flower Moon*
+Alexander Payne's holiday film, about a group of misfits stuck together for the Christmas break, is really fun. I can't remember who said it, but some critic put it well when they said: I've seen this movie a thousand times before, but this is the best version of this movie. It's hard to imagine how the Academy could *not* award Da'Vine Joy Randolph with Best Supporting Actress.
 
-Lily Gladstone stole every scene she was in, even when she didn't say a word---& this is in a movie with Leonardo DiCaprio & Robert De Niro. She delivered a heartbreaking & breathtaking performance, & she deserves the Oscar on the strength of her appearance in the film alone. If Gladstone doesn't win, it will be the biggest disservice of the night.
+## 4. Oppenheimer
 
-**Prediction**: 
+While I still stand by [my initial feelings](https://blog.andrewbelfield.com/posts/20230724_barbenheimer/)---it buckles a bit under its own weight---Christopher Nolan's biopic of the architect of the atomic bomb still has thrilling & wrenching moments. The two timelines don't quite hang together & the movie suffers as a result, though the nonlinear approach does allow Nolan to end on the most affecting scene. I think *Oppenheimer* will win Best Picture (along with most of the awards its received nominations for).
 
-This is a very difficulty category to predict; each of the nominees have *some*thing the Oscars love in a lead actress. I *think* it will go to Gladstone, but I think there's a possibility it goes to Emma Stone
+## 3. Past Lives
+
+I was surprised at how much I enjoyed Celine Song's story of lost & rediscovered love. The final few moments are simultaneously heartbreaking & hopeful. Greta Lee is wonderful, as is John Magaro.
+
+## 2. Barbie
+
+Greta Gerwig is such an incredible director, finding depths of love & humanity in even the most mundane settings: [the bickering between a mother & daughter](https://www.youtube.com/watch?v=cNi_HC839Wo), [the struggles of & pressures felt by a family of women](https://www.youtube.com/watch?v=AST2-4db4ic), & now even the "coming-of-age" of a plastic doll. Margot Robbie delivers a wonderfully subtle performance, inviting us to consider the ways we make meaning, in ways both helpful & harmful, in the world. I'd love to see more collaboration between Gerwig & Robbie (but not, please God, in a *Barbie* sequel).
+
+## 1. Killers of the Flower Moon
+
+Martin Scorsese's crime drama, about prowling wolves devouring the land & its Osage inhabitants, is a brilliant film. Despite the film's length, Scorsese held my interest the entire time, thanks in no small part to the stunning cinematography & excellent performances. Lily Gladstone's deserves to be named Best Actress, & this film deserves Best Picture. The final scene, with Martin Scorsese's cameo, brilliantly reframes the entire film & calls himself---& the audience---to account. No one does violence, evil, & calls to repentance like Scorsese.
