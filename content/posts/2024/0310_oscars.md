@@ -24,7 +24,7 @@ I liked Justine Triet's courtroom drama; it reminded me, at times, of Albert Cam
 
 ## 6. American Fiction
 
-I really enjoyed this satire of the expectations the publishing world (& entertainment culture more broadly) burdens Black artists with. It often felt less like a single story than two different stories spliced together, which unfortunately left the film as a whole a little disjointed. Jeffrey Wright's performance is amazing. I don't think he'll win Best Actor, but I think he should.
+I really enjoyed Cord Jefferson's satire of the expectations the publishing world (& entertainment culture more broadly) burdens Black artists with. It often felt less like a single story than two different stories spliced together, which unfortunately left the film as a whole a little disjointed. Jeffrey Wright's performance is amazing. I don't think he'll win Best Actor, but I think he should.
 
 ## 5. The Holdovers
 
