@@ -4,7 +4,7 @@ date: 2024-03-10T08:29:12-05:00
 tags: [opinion, film]
 ---
 
-Here I rank the Oscars nominees for Best Picture, from least favorite to favorite.
+Here I rank the Oscars nominees for Best Picture, from least favorite to favorite. Honestly this was a very good year for Best Picture nominees so it was hard ranking them. With the exception of my bottom 3 (I really did not care for any of those), I could very easily arrive at an entirely different ranking, depending on the day.
 
 ## 10. Maestro
 
