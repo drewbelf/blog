@@ -4,7 +4,7 @@ date: 2024-03-10T08:29:12-05:00
 tags: [opinion, film]
 ---
 
-Here I rank the Oscars nominees for Best Picture, from least favorite to favorite.
+Here I rank the Oscars nominees for Best Picture, from least favorite to favorite. Honestly this was a very good year for Best Picture nominees so it was hard ranking them. With the exception of my bottom 3 (I really did not care for any of those), I could very easily arrive at an entirely different ranking, depending on the day.
 
 ## 10. Maestro
 
@@ -24,7 +24,7 @@ I liked Justine Triet's courtroom drama; it reminded me, at times, of Albert Cam
 
 ## 6. American Fiction
 
-I really enjoyed this satire of the expectations the publishing world (& entertainment culture more broadly) burdens Black artists with. It often felt less like a single story than two different stories spliced together, which unfortunately left the film as a whole a little disjointed. Jeffrey Wright's performance is amazing. I don't think he'll win Best Actor, but I think he should.
+I really enjoyed Cord Jefferson's satire of the expectations the publishing world (& entertainment culture more broadly) burdens Black artists with. It often felt less like a single story than two different stories spliced together, which unfortunately left the film as a whole a little disjointed. Jeffrey Wright's performance is amazing. I don't think he'll win Best Actor, but I think he should.
 
 ## 5. The Holdovers
 
