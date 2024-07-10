@@ -52,8 +52,8 @@ You can see here the RNJB's "reading aloud" principle in the way it avoids quota
 | Our Father in heaven, may your name be held holy, | Our Father in heaven, may your name be held holy, |
 | your kingdom come, your will be done, on earth as in heaven. | your kingdom come, your will be done, on earth as in heaven. |
 | Give us today our daily bread. | Give us today our daily bread. |
-| And forgive us our debts, as we have forgiven those who are in debt to us. | And forgive us our debts, as we have forgiven our debtors. |
-| And do not put us to the test, but save us from the Evil One. | And do not put us to the test, but save us from the Evil One. |
+| & forgive us our debts, as we have forgiven those who are in debt to us. | & forgive us our debts, as we have forgiven our debtors. |
+| & do not put us to the test, but save us from the Evil One. | & do not put us to the test, but save us from the Evil One. |
 
 The Lord's Prayer that I have memorized is, I think, a slightly modernized form of the one appearing in the King James Version ("Our Father, who art in heaven ..."). That language is so familiar to me, I can't help but feel a little uncomfortable reading this one. But I do like the use of "debts" here rather than "trespasses."
 
@@ -62,28 +62,28 @@ The Lord's Prayer that I have memorized is, I think, a slightly modernized form 
 | New Jerusalem Bible | Revised New Jerusalem Bible |
 |---|---|
 | 'My soul proclaims the greatness of the Lord | 'My soul proclaims the greatness of the Lord |
-| and my spirit rejoices in God my Saviour; | and my spirit rejoices in God my Saviour; |
+| & my spirit rejoices in God my Saviour; | & my spirit rejoices in God my Saviour; |
 | because he has looked upon the humiliation of his servant. Yes, from now onwards all generations will call me blessed, | since he has looked with favour on the lowliness of his servant. For see, from now on all generations will call me blessed, |
-| for the Almighty has done great things for me. Holy is his name, | for the Almighty has done great things for me, and holy is his name, |
-| and his faithful love extends age after age to those who fear him. | and his mercy is from generation to generation on those who fear him. |
+| for the Almighty has done great things for me. Holy is his name, | for the Almighty has done great things for me, & holy is his name, |
+| & his faithful love extends age after age to those who fear him. | & his mercy is from generation to generation on those who fear him. |
 | He has used the power of his arm, he has routed the arrogant of heart. | He has exerted the power of his arm, he has scattered the proud in the thoughts of their heart. |
-| He has pulled down princes from their thrones and raised high the lowly. | He has taken down princes from thrones and raised up the lowly. |
-| He has filled the starving with good things, sent the rich away empty. | He has filled the hungry with good things, and sent the rich away empty. |
+| He has pulled down princes from their thrones & raised high the lowly. | He has taken down princes from thrones & raised up the lowly. |
+| He has filled the starving with good things, sent the rich away empty. | He has filled the hungry with good things, & sent the rich away empty. |
 | He has come to the help of Israel his servant, mindful of his faithful love | He has come to the help of Israel his servant, in remembrance of his mercy, |
-| ---according to the promise he made to our ancestors---of his mercy to Abraham and to his descendants for ever.' | according to the promise he made to our ancestors, of his mercy to Abraham and his descendants for ever.' |
+| ---according to the promise he made to our ancestors---of his mercy to Abraham & to his descendants for ever.' | according to the promise he made to our ancestors, of his mercy to Abraham & his descendants for ever.' |
 
-Some lines I prefer the NJB ("he has routed the arrogant of heart") & some I prefer the RNJB ("he has looked with favour on the lowliness of his servant"). I wonder what Greek word underlies what the NJB translates as "faithful love" and what the RNJB translates "mercy"?
+Some lines I prefer the NJB ("he has routed the arrogant of heart") & some I prefer the RNJB ("he has looked with favour on the lowliness of his servant"). I wonder what Greek word underlies what the NJB translates as "faithful love" & what the RNJB translates "mercy"?
 
 ## John 1:1--5, 14
 
 | New Jerusalem Bible | Revised New Jerusalem Bible |
 |---|---|
-| In the beginning was the Word: the Word was with God and the Word was God. | In the beginning was the Word: the Word was with God and the Word was God. |
+| In the beginning was the Word: the Word was with God & the Word was God. | In the beginning was the Word: the Word was with God & the Word was God. |
 | He was with God in the beginning. | He was with God in the beginning. |
 | Through him all things came into being, not one thing came into being except through him. | Through him all things came into being, not one thing came into being except through him. |
 | What has come into being in him was life, life that was the light of men; | What has come into being in him was life, life that was the light of all people; |
-| and light shines in darkness, and darkness could not overpower it. | and light shines in darkness, and darkness could not overpower it. |
-| The Word became flesh, he lived among us, and we saw his glory, the  glory that he has from the Father as only Son of the Father, full of  grace and truth. | The Word became flesh and lived among us, and we saw his glory, the glory as of an only-begotten Son of the Father, full of grace and truth. |
+| & light shines in darkness, & darkness could not overpower it. | & light shines in darkness, & darkness could not overpower it. |
+| The Word became flesh, he lived among us, & we saw his glory, the  glory that he has from the Father as only Son of the Father, full of  grace & truth. | The Word became flesh & lived among us, & we saw his glory, the glory as of an only-begotten Son of the Father, full of grace & truth. |
 
 John's Prologue reads as nearly identical in both translations, with the only substantial difference being the preference for inclusive language ("people" rather than "men") in verse 4.
 
@@ -101,19 +101,19 @@ I have to say, I don't particularly like how either translations the first half 
 |---|---|
 | Make your own the mind of Christ Jesus: | Let the same mind be in you as was also in Christ Jesus: |
 | Who, being in the form of God, did not count equality with God something to be grasped. | Who, being in the form of God, did not count equality with God something to be grasped. |
-| But he emptied himself, taking the form of a slave, becoming as human beings are; and being in every way like a human being, | But he emptied himself, taking the form of a slave, born in human likeness, and found in human shape; |
+| But he emptied himself, taking the form of a slave, becoming as human beings are; & being in every way like a human being, | But he emptied himself, taking the form of a slave, born in human likeness, & found in human shape; |
 | he was humbler yet, even to accepting death, death on a cross. | he humbled himself, becoming obedient unto death, death on a cross. |
-| And for this God raised him high, and gave him the name which is above all other names; | And therefore God highly exalted him, and granted him the name above every name |
-| so that all beings in the heavens, on earth and in the underworld, should bend the knee at the name of Jesus | so that at the name of Jesus every knee should bend of beings heavenly, earthly, and under the earth, |
-| and that every tongue should acknowledge Jesus Christ as Lord, to the glory of God the Father. | and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father. |
+| & for this God raised him high, & gave him the name which is above all other names; | & therefore God highly exalted him, & granted him the name above every name |
+| so that all beings in the heavens, on earth & in the underworld, should bend the knee at the name of Jesus | so that at the name of Jesus every knee should bend of beings heavenly, earthly, & under the earth, |
+| & that every tongue should acknowledge Jesus Christ as Lord, to the glory of God the Father. | & every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father. |
 
-Here I think we see more sharply the differences between dynamic & formal equivalence. Compare especially verses 7 and 8. I think the NJB's "But he emptied himself, taking the form of a slave, becoming as human beings are; and being in every way like a human being, he was humbler yet, even to accepting death, death on a cross" reads much more nicely than the RNJB's, but I take it the RNJB is closer to the Greek.[^5]
+Here I think we see more sharply the differences between dynamic & formal equivalence. Compare especially verses 7 & 8. I think the NJB's "But he emptied himself, taking the form of a slave, becoming as human beings are; & being in every way like a human being, he was humbler yet, even to accepting death, death on a cross" reads much more nicely than the RNJB's, but I take it the RNJB is closer to the Greek.[^5]
 
 ## Conclusions
 
 Acknowledging that these comparisons are far from exhaustive, it doesn't seem like the shift from dynamic to formal equivalence has had a huge impact on translation choices, with some relatively small exceptions. With those exceptions in mind I have to say that I tend to prefer the NJB's renderings to the RNJB,[^6] though the inclusive language of the RNJB & the use of "the LORD" for the tetragrammaton are points in favor of the RNJB.
 
-Is the (R)NJB my new preferred translation? Maybe for now. I'd like to do a more extensive comparison of the (R)NJB to other versions, especially the English Standard Version - Catholic Edition and the Knox Version, before making any final determinations. But that's a project for another day.
+Is the (R)NJB my new preferred translation? Maybe for now. I'd like to do a more extensive comparison of the (R)NJB to other versions, especially the English Standard Version - Catholic Edition & the Knox Version, before making any final determinations. But that's a project for another day.
 
 [^1]: These details are drawn largely from Henry Wansbrough's Foreword to the *Revised New Jerusalem Bible: Study Edition* (Image Books, 2019).
 [^2]: Many---perhaps even most---modern English translations began as Protestant translations, which were then adapted for Catholic use (e.g., the Catholic edition of the Revised Standard Version). Exceptions might include the Confraternity Bible---which is really an update of the Douay Rheims Bible---& the New American Bible.
