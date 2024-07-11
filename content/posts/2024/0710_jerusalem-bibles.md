@@ -55,7 +55,7 @@ You can see here the RNJB's "reading aloud" principle in the way it avoids quota
 | & forgive us our debts, as we have forgiven those who are in debt to us. | & forgive us our debts, as we have forgiven our debtors. |
 | & do not put us to the test, but save us from the Evil One. | & do not put us to the test, but save us from the Evil One. |
 
-The Lord's Prayer that I have memorized is, I think, a slightly modernized form of the one appearing in the King James Version ("Our Father, who art in heaven ..."). That language is so familiar to me, I can't help but feel a little uncomfortable reading this one. But I do like the use of "debts" here rather than "trespasses."
+The Lord's Prayer that I have memorized is, I think, a slightly modernized form of the one appearing in the King James Version ("Our Father, who art in heaven ..."). That language is so familiar to me, I can't help but feel a little uncomfortable reading this one. But I do kind of like the use of "debts" here rather than "trespasses."
 
 ## Luke 1:46--55
 
@@ -93,7 +93,7 @@ John's Prologue reads as nearly identical in both translations, with the only su
 |---|---|
 |For this is how God loved the world: he gave his only Son, so that everyone who believes in him may not perish but may have eternal life. |For God loved the world so much that he gave his only-begotten Son, so that everyone who believes in him may not perish but may have eternal life. |
 
-I have to say, I don't particularly like how either translations the first half of this verse; I prefer the KJV's "For God so loved the world ...", but that may be because it's familiar (like the Lord's Prayer above)
+I have to say, I don't particularly like how either version translates the first half of this verse; I prefer the KJV's "For God so loved the world ...", but that may be because it's familiar (like the Lord's Prayer above)
 
 ## Philippians 2:5--11
 
