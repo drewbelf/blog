@@ -12,4 +12,4 @@ summary: The early Franciscans refusing to handle coin yet begging for alms, the
 
 2. Last night I saw ***Joker**: Folie à Deux* in theaters. Not good.
 
-3. But I also got to see [the trailer for Rogert Egger's ***Nosferatu***](https://www.youtube.com/watch?v=nulvWqYUM8k). Very good. I can't wait.
+3. But I also got to see [the trailer for Robert Egger's ***Nosferatu***](https://www.youtube.com/watch?v=nulvWqYUM8k). Very good. I can't wait.
