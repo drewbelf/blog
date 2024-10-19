@@ -2,9 +2,10 @@
 title: "Three things no. 3"
 date: 2024-10-19T15:42:25-04:00
 tags: [three-things]
+summary: Forgetting as doctrinal development, the apple tree as a symbol for Christ, & justice & mercy in *Les Misérables*.
 ---
 
-1. I skipped last week's [three things](/tags/three-things), because I wrote [this post about forgetting as doctrinal development](/posts/2024/1012_forgetting-as-doctrinal-development) instead. That post actually started out as a three things post, before I realized I should really just make it its own post.
+1. I skipped last week's [three things](/tags/three-things), because I wrote [this post about forgetting as doctrinal development](/posts/2024/1012_forgetting-as-doctrinal-development) instead. That post actually started out as a three things post, before I realized I should really just make it its own post. I'm hoping this continues to happen: the three things format leads to more posts.
 
 2. On *The Lamp*'s blog, [Peter Hitchens reflects on the apple tree as a symbol for Christ](https://thelampmagazine.com/blog/comfort-me-with-apples). He is interested in the convergence of Christ crucified on a tree & the apple tree as an explosion of life & fruitfulness. The early Franciscans I study are also interested in using the apple tree for christological thinking, but for them they focus on grafting as an aid in understanding the union of two natures in one hypostasis. Here's an excerpt from the *Summa halensis*, translated by my colleague Oleg Bychkov & Lydia Schumacher:
 
