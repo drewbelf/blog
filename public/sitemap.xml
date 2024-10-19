@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://blog.andrewbelfield.com/posts/</loc>
+    <lastmod>2024-10-19T15:42:25-04:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/</loc>
+    <lastmod>2024-10-19T15:42:25-04:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/</loc>
+    <lastmod>2024-10-19T15:42:25-04:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/posts/2024/1019_three-things/</loc>
+    <lastmod>2024-10-19T15:42:25-04:00</lastmod>
+  </url><url>
+    <loc>http://blog.andrewbelfield.com/tags/three-things/</loc>
+    <lastmod>2024-10-19T15:42:25-04:00</lastmod>
+  </url><url>
     <loc>http://blog.andrewbelfield.com/posts/2024/1012_forgetting-as-doctrinal-development/</loc>
     <lastmod>2024-10-12T15:08:51-04:00</lastmod>
   </url><url>
-    <loc>http://blog.andrewbelfield.com/posts/</loc>
-    <lastmod>2024-10-12T15:08:51-04:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/</loc>
-    <lastmod>2024-10-12T15:08:51-04:00</lastmod>
-  </url><url>
     <loc>http://blog.andrewbelfield.com/tags/speculation/</loc>
-    <lastmod>2024-10-12T15:08:51-04:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/</loc>
     <lastmod>2024-10-12T15:08:51-04:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/tradition/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2024-10-05T16:11:29-04:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/tags/teaching/</loc>
-    <lastmod>2024-10-05T16:11:29-04:00</lastmod>
-  </url><url>
-    <loc>http://blog.andrewbelfield.com/tags/three-things/</loc>
     <lastmod>2024-10-05T16:11:29-04:00</lastmod>
   </url><url>
     <loc>http://blog.andrewbelfield.com/posts/2024/1005_three-things/</loc>
