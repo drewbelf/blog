@@ -28,7 +28,7 @@ paginate = 7
 			name = "rss"
 			href = "https://blog.andrewbelfield.com/index.xml"
 		[[params.links.link]]
-			name = "florilegium andreae"
+			name = "micro blog"
 			href = "https://micro.andrewbelfield.com"
 			new_tab = false
 		[[params.links.link]]
