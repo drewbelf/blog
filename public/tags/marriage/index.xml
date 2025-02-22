@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marriage on speculatio pauperis in deserto</title>
-    <link>http://blog.andrewbelfield.com/tags/marriage/</link>
+    <link>http://localhost:1313/tags/marriage/</link>
     <description>Recent content in Marriage on speculatio pauperis in deserto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 May 2019 13:30:14 -0500</lastBuildDate>
-    <atom:link href="http://blog.andrewbelfield.com/tags/marriage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/marriage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>That attention is love</title>
-      <link>http://blog.andrewbelfield.com/posts/20190518_that-attention-is-love/</link>
+      <link>http://localhost:1313/posts/20190518_that-attention-is-love/</link>
       <pubDate>Sat, 18 May 2019 13:30:14 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20190518_that-attention-is-love/</guid>
+      <guid>http://localhost:1313/posts/20190518_that-attention-is-love/</guid>
       <description>In the very year of our engagement, Lady Bird was released.&#xA;Toward the end of this magnanimous film&#xA;the titular character meets with her English teacher, Sister Sarah Joan,&#xA;to discuss a short story she wrote for class.&#xA;That wise nun comments how clearly&#xA;Lady Bird’s love for Sacramento comes through,&#xA;much to Lady Bird’s—and the viewer’s—surprise.&#xA;Up till now we have seen Lady Bird straining&#xA;at the borders of her hometown</description>
     </item>
   </channel>

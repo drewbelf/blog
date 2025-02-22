@@ -2,227 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on speculatio pauperis in deserto</title>
-    <link>http://blog.andrewbelfield.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on speculatio pauperis in deserto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 15:42:25 -0400</lastBuildDate>
-    <atom:link href="http://blog.andrewbelfield.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 13:45:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three things no. 4</title>
+      <link>http://localhost:1313/posts/2025/0222_three-things/</link>
+      <pubDate>Sat, 22 Feb 2025 13:45:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/0222_three-things/</guid>
+      <description>Blogging (again), working on weekends x 2.</description>
+    </item>
     <item>
       <title>Three things no. 3</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/1019_three-things/</link>
+      <link>http://localhost:1313/posts/2024/1019_three-things/</link>
       <pubDate>Sat, 19 Oct 2024 15:42:25 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/1019_three-things/</guid>
+      <guid>http://localhost:1313/posts/2024/1019_three-things/</guid>
       <description>Forgetting as doctrinal development, the apple tree as a symbol for Christ, &amp;amp; justice &amp;amp; mercy in &lt;em&gt;Les Misérables&lt;/em&gt;.</description>
     </item>
     <item>
       <title>Forgetting as doctrinal development</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/1012_forgetting-as-doctrinal-development/</link>
+      <link>http://localhost:1313/posts/2024/1012_forgetting-as-doctrinal-development/</link>
       <pubDate>Sat, 12 Oct 2024 15:08:51 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/1012_forgetting-as-doctrinal-development/</guid>
+      <guid>http://localhost:1313/posts/2024/1012_forgetting-as-doctrinal-development/</guid>
       <description>I&amp;rsquo;m beginning to read Mary Carruthers&amp;rsquo;s The Book of Memory: A Study of Memory in Medieval Culture. It&amp;rsquo;s one of those books that I really should have read by now, &amp;amp; I&amp;rsquo;m finally remedying that. One of the points she makes in her preface to the second edition concerns the relationship between memory &amp;amp; forgetting: for the medieval memory, forgetting is not always a failure of memory but may in fact be &amp;ldquo;the sort of forgetting that itself results form an activity of memory.</description>
     </item>
     <item>
       <title>Three things no. 2</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/1005_three-things/</link>
+      <link>http://localhost:1313/posts/2024/1005_three-things/</link>
       <pubDate>Sat, 05 Oct 2024 16:11:29 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/1005_three-things/</guid>
+      <guid>http://localhost:1313/posts/2024/1005_three-things/</guid>
       <description>The early Franciscans refusing to handle coin yet begging for alms, the new Joker movie, &amp;amp; the new Nosferatu trailer.</description>
     </item>
     <item>
       <title>Three things no. 1</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0928_three-things/</link>
+      <link>http://localhost:1313/posts/2024/0928_three-things/</link>
       <pubDate>Sat, 28 Sep 2024 10:05:02 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0928_three-things/</guid>
+      <guid>http://localhost:1313/posts/2024/0928_three-things/</guid>
       <description>Blogging, RSS, &amp;amp; a writing lab</description>
     </item>
     <item>
       <title>The New Jerusalem Bible &amp; the Revised New Jerusalem Bible, compared</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0710_jerusalem-bibles/</link>
+      <link>http://localhost:1313/posts/2024/0710_jerusalem-bibles/</link>
       <pubDate>Wed, 10 Jul 2024 13:37:12 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0710_jerusalem-bibles/</guid>
+      <guid>http://localhost:1313/posts/2024/0710_jerusalem-bibles/</guid>
       <description>In 1943, Pope Pius XII promulgated Divino afflante Spiritu, encouraging the translation of the Bible on the basis of original Hebrew &amp;amp; Greek texts. Prior to Divino afflante Spiritu the Latin Vulgate had served as the textual basis for Catholic translations of the Bible; this new directive from the pope inaugurated the modern era of Catholic biblical scholarship.&#xA;The French Dominicans at the École Biblique in Jerusalem answered the call, publishing a French translation of the Bible&amp;mdash;La Bible de Jérusalem&amp;mdash;in 1956.</description>
     </item>
     <item>
       <title>Best Picture nominees, ranked</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0310_oscars/</link>
+      <link>http://localhost:1313/posts/2024/0310_oscars/</link>
       <pubDate>Sun, 10 Mar 2024 08:29:12 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0310_oscars/</guid>
+      <guid>http://localhost:1313/posts/2024/0310_oscars/</guid>
       <description>Here I rank the Oscars nominees for Best Picture, from least favorite to favorite. Honestly this was a very good year for Best Picture nominees so it was hard ranking them. With the exception of my bottom 3 (I really did not care for any of those), I could very easily arrive at an entirely different ranking, depending on the day.&#xA;10. Maestro Everything about Bradley Cooper&amp;rsquo;s Leonard Bernstein biopic just felt so effortful, especially the performances.</description>
     </item>
     <item>
       <title>Perpetua, Felicity, &amp; the Roman empire</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0307_perpetua-felicity/</link>
+      <link>http://localhost:1313/posts/2024/0307_perpetua-felicity/</link>
       <pubDate>Thu, 07 Mar 2024 21:26:00 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0307_perpetua-felicity/</guid>
+      <guid>http://localhost:1313/posts/2024/0307_perpetua-felicity/</guid>
       <description>Today, on the feast of Saints Perpetua &amp;amp; Felicity, I thought about their martyrdom. The account of their martyrdom&amp;mdash;most of which is written by Perpetua herself&amp;mdash;is a witness not only to the victory of life over death upon which Christianity is founded, but also of resistance against imperial oppression. Indeed, it is precisely in their dying that Perpetua &amp;amp; Felicity overcome the death-dealing ways of the Roman empire. From Perpetua&amp;rsquo;s Passion:</description>
     </item>
     <item>
       <title>First things first</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0115_first-things-first/</link>
+      <link>http://localhost:1313/posts/2024/0115_first-things-first/</link>
       <pubDate>Mon, 15 Jan 2024 11:05:29 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0115_first-things-first/</guid>
+      <guid>http://localhost:1313/posts/2024/0115_first-things-first/</guid>
       <description>One of the particular challenges of teaching theology today&amp;mdash;even to students who have some religious background&amp;mdash;is the utter lack of theological formation most people in the United States receive. Some students may come in with some religious formation, in that they have participated in their church&amp;rsquo;s faith formation classes or even theology classes in a religious high school, but that formation tends to be more catechetical than theological. To oversimplify, catechesis provides a student with a religious community&amp;rsquo;s answers to theological questions, but it does not always provide the rationale for those answers.</description>
     </item>
     <item>
       <title>The pattern &amp; prototype of all sin</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0113_pattern-prototype-of-all-sin/</link>
+      <link>http://localhost:1313/posts/2024/0113_pattern-prototype-of-all-sin/</link>
       <pubDate>Sat, 13 Jan 2024 11:23:31 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0113_pattern-prototype-of-all-sin/</guid>
+      <guid>http://localhost:1313/posts/2024/0113_pattern-prototype-of-all-sin/</guid>
       <description>In the eighth episode of Beef, in one of a series of flashbacks filling in the backstories of the two beefing protagonists (or, better, the two antagonists), we see a particularly affecting scene between Danny &amp;amp; his younger brother, Paul that illustrates what Thomas Merton calls &amp;ldquo;the pattern &amp;amp; prototype of all sin.&amp;rdquo; (Spoilers follow.)&#xA;Danny &amp;amp; Paul are at their parents’ motel: Danny is perhaps 20 or 21 years old &amp;amp; working as his parents’ handyman (contractor, he insists), while Paul, three years his junior, is preparing his college applications.</description>
     </item>
     <item>
       <title>Top tens in 2023</title>
-      <link>http://blog.andrewbelfield.com/posts/2023/1231_top-tens/</link>
+      <link>http://localhost:1313/posts/2023/1231_top-tens/</link>
       <pubDate>Sun, 31 Dec 2023 21:20:54 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2023/1231_top-tens/</guid>
+      <guid>http://localhost:1313/posts/2023/1231_top-tens/</guid>
       <description>Here are the top 10 new-to-me books I read in 2023, in the order I read them:&#xA;Enfleshing Freedom: Body, Race, &amp;amp; Being, by M. Shawn Copeland Metamorphoses, by Ovid (translated by Stephanie McCarter) The Body of the Cross: Holy Victims &amp;amp; the Invention of the Atonement, by Travis E. Ables Bare Ruined Choirs: Doubt, Prophecy, &amp;amp; Radical Religion, by Gary Wills Warmth: Coming of Age at the End of Our World, by Daniel Sherrell Nothing Gained Is Eternal: A Theology of Tradition, by Anne M.</description>
     </item>
     <item>
       <title>Logbook—December 2023</title>
-      <link>http://blog.andrewbelfield.com/posts/2023/1231_logbook/</link>
+      <link>http://localhost:1313/posts/2023/1231_logbook/</link>
       <pubDate>Sun, 31 Dec 2023 10:18:10 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2023/1231_logbook/</guid>
+      <guid>http://localhost:1313/posts/2023/1231_logbook/</guid>
       <description>In which I read Bullshit Jobs: A Theory &amp;amp; Swimming in the Dark &amp;amp; Silence: A Novel &amp;amp; Way Back to God: The Spiritual Theology of St Bonaventure &amp;amp; Doppleganger: A Trip into the Mirror World; &amp;amp; watched The Grapes of Wrath &amp;amp; May December &amp;amp; The Holdovers &amp;amp; The Hunger Games: The Ballad of Songbirds &amp;amp; Snakes &amp;amp; Napoleon &amp;amp; The Muppets Christmas Carol &amp;amp; Home Alone &amp;amp; Poor Things &amp;amp; It&amp;rsquo;s a Wonderful Life &amp;amp; Saltburn &amp;amp; The Color Purple (2023).</description>
     </item>
     <item>
       <title>Frequent &amp; spontaneous blessing</title>
-      <link>http://blog.andrewbelfield.com/posts/2023/1229_frequent-spontaneous-blessing/</link>
+      <link>http://localhost:1313/posts/2023/1229_frequent-spontaneous-blessing/</link>
       <pubDate>Fri, 29 Dec 2023 11:24:32 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2023/1229_frequent-spontaneous-blessing/</guid>
+      <guid>http://localhost:1313/posts/2023/1229_frequent-spontaneous-blessing/</guid>
       <description>Fiducia supplicans presents itself as &amp;ldquo;an innovative contribution to the pastoral meaning of blessings, permitting a broadening &amp;amp; enrichment of the classical understanding of blessings&amp;rdquo; (emphasis original). I have already said something about how this &amp;ldquo;innovation&amp;rdquo; might fit into a Catholic theological project, particularly where doctrinal development is concerned. I&amp;rsquo;d like now to comment more broadly on the document itself &amp;amp; what it has to say about blessings of couples. My main takeaway from Fiducia supplicans is that all persons &amp;amp; couples, including but not only those couples whose relationships do not conform to the church&amp;rsquo;s expectations, stand in need of God&amp;rsquo;s love &amp;amp; mercy, &amp;amp; so spontaneous, frequent, &amp;amp; abundant blessing of all persons &amp;amp; couples ought to be a regular feature of the church&amp;rsquo;s life as &amp;ldquo;sacrament of God&amp;rsquo;s infinite love&amp;rdquo; (§43).</description>
     </item>
     <item>
       <title>Why do we need the humanities if no one is majoring in them?</title>
-      <link>http://blog.andrewbelfield.com/posts/20231228_why-do-we-need-the-humanities/</link>
+      <link>http://localhost:1313/posts/20231228_why-do-we-need-the-humanities/</link>
       <pubDate>Thu, 28 Dec 2023 08:24:37 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20231228_why-do-we-need-the-humanities/</guid>
+      <guid>http://localhost:1313/posts/20231228_why-do-we-need-the-humanities/</guid>
       <description>Clarkson University announces plan to phase out majors in humanities, communications.&#xA;[Kelly] Chezum [Clarkson&amp;rsquo;s vice president for external relations] said the university has always been focused on STEM (science, technology, engineering and mathematics). The nine majors being phased out — social documentation, history, literature, sociology, film, political science, digital arts and sciences, communications and media, and interdisciplinary liberal studies and humanities — represent less than 2% of students.&#xA;Very often when programs in the humanities are cut, the cuts are justified&amp;mdash;explicitly or not&amp;mdash;by pointing out how few students will be affected by these cuts.</description>
     </item>
     <item>
       <title>A new blog</title>
-      <link>http://blog.andrewbelfield.com/posts/20231227_a-new-blog/</link>
+      <link>http://localhost:1313/posts/20231227_a-new-blog/</link>
       <pubDate>Wed, 27 Dec 2023 08:00:00 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20231227_a-new-blog/</guid>
+      <guid>http://localhost:1313/posts/20231227_a-new-blog/</guid>
       <description>When I started micro blogging in 2021, I never planned to do anything but that: micro blog. I&amp;rsquo;d tried to blog before&amp;mdash;my first website was a static site generated by Jekyll&amp;mdash;but it had never stuck. I liked the idea of instead having a fairly low-effort, ephemeral site: a blog populated with posts about what I&amp;rsquo;m reading, quotations I&amp;rsquo;m mulling over, even some pictures, etc. For a while that&amp;rsquo;s all I did with micro.</description>
     </item>
     <item>
       <title>Fiducia supplicans &amp; church teaching</title>
-      <link>http://blog.andrewbelfield.com/posts/20231223_fiducia-supplicans-church-teaching/</link>
+      <link>http://localhost:1313/posts/20231223_fiducia-supplicans-church-teaching/</link>
       <pubDate>Sat, 23 Dec 2023 11:33:05 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20231223_fiducia-supplicans-church-teaching/</guid>
+      <guid>http://localhost:1313/posts/20231223_fiducia-supplicans-church-teaching/</guid>
       <description>I&amp;rsquo;ve seen a fair amount of hand wringing over Fiducia supplicans where the consistency of church teaching &amp;amp; papal authority are concerned. The concern goes something like this: Fiducia supplicans, signed by Pope Francis, reaffirms the Catholic church&amp;rsquo;s historical teaching on marriage (as possible only between a woman &amp;amp; a man) while allowing for blessings of couples who do not conform to that teaching of marriage. This means the Catholic church will have to either forge ahead, perhaps revising its understanding of marriage to include partnerships between persons of the same gender, or pull back from Fiducia supplicans to reaffirm its historical understanding of marriage.</description>
     </item>
     <item>
       <title>Venerable night: brilliant &amp; solemn</title>
-      <link>http://blog.andrewbelfield.com/posts/20231204_venerable-night/</link>
+      <link>http://localhost:1313/posts/20231204_venerable-night/</link>
       <pubDate>Mon, 04 Dec 2023 17:00:00 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20231204_venerable-night/</guid>
+      <guid>http://localhost:1313/posts/20231204_venerable-night/</guid>
       <description>It was winter in Italy, eight hundred years ago, &amp;amp; Assisi’s poverello had an idea.1 Francis of Assisi had become obsessed with the words &amp;amp; deeds of Jesus Christ, his rustic parables &amp;amp; simple gestures that, despite (or perhaps because of) their lowliness, communicated divine majesty &amp;amp; awe. According to an early biographer,2 “so thoroughly did the humility of the incarnation &amp;amp; the charity of the passion occupy his memory that he scarcely wanted to think of anything else.</description>
     </item>
     <item>
       <title>November 2023 logbook</title>
-      <link>http://blog.andrewbelfield.com/posts/20231130_logbook/</link>
+      <link>http://localhost:1313/posts/20231130_logbook/</link>
       <pubDate>Thu, 30 Nov 2023 00:38:35 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20231130_logbook/</guid>
+      <guid>http://localhost:1313/posts/20231130_logbook/</guid>
       <description>In which I watched Killers of the Flower Moon, The Blair Witch Project, &amp;amp; The Killing of a Sacred Deer; &amp;amp; read Questioning God, Ways of Seeing, Revelations of Divine Love, &amp;amp; Julian of Norwich, Theologian.&#xA;Killers of the Flower Moon (Martin Scorsese, 2023). What an amazing film. I don&amp;rsquo;t even want to say much about it here, because I know I can&amp;rsquo;t do it justice in the space of a short paragraph.</description>
     </item>
     <item>
       <title>October 2023 logbook</title>
-      <link>http://blog.andrewbelfield.com/posts/20231031_logbook/</link>
+      <link>http://localhost:1313/posts/20231031_logbook/</link>
       <pubDate>Tue, 31 Oct 2023 00:40:18 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20231031_logbook/</guid>
+      <guid>http://localhost:1313/posts/20231031_logbook/</guid>
       <description>I thought it might be fun at the end of each month to list the movies I&amp;rsquo;d seen that month &amp;amp; some thoughts about each.&#xA;Rope (Alfred Hitchcock, 1948). Jacqueline &amp;amp; I decided to watch some Hitchcock in honor of Halloween at the end of the month. We&amp;rsquo;ve seen a few Hitchcock already, but not Rope. I enjoyed it, though it&amp;rsquo;s not my favorite of his (that remains Psycho). I love good, long scenes, &amp;amp; Hitchcock&amp;rsquo;s clever camera work to make the entire film seem like a single take really ratchets up the tension.</description>
     </item>
     <item>
       <title>Writing assignments in Theology 101</title>
-      <link>http://blog.andrewbelfield.com/posts/20230903_writing-assignments-in-theology-101/</link>
+      <link>http://localhost:1313/posts/20230903_writing-assignments-in-theology-101/</link>
       <pubDate>Sun, 03 Sep 2023 14:36:55 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230903_writing-assignments-in-theology-101/</guid>
+      <guid>http://localhost:1313/posts/20230903_writing-assignments-in-theology-101/</guid>
       <description>(Well, not quite Theology 101; rather, Theology &amp;amp; Franciscan Studies 101, which isn&amp;rsquo;t exactly an intro to theology.)&#xA;I&amp;rsquo;m finally getting close to a &amp;ldquo;final form&amp;rdquo; for my sections of &amp;ldquo;The Way of Francis &amp;amp; Clare.” The course schedule, including reading assignments, is mostly set, but what&amp;rsquo;s really tied together the entire course is the integration of a service learning project throughout the semester.&#xA;Throughout the semester, students take what they learn about Franciscan values to design, plan, &amp;amp; implement a service project that does some good for the local community.</description>
     </item>
     <item>
       <title>Barbenheimer</title>
-      <link>http://blog.andrewbelfield.com/posts/20230724_barbenheimer/</link>
+      <link>http://localhost:1313/posts/20230724_barbenheimer/</link>
       <pubDate>Mon, 24 Jul 2023 14:35:24 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230724_barbenheimer/</guid>
+      <guid>http://localhost:1313/posts/20230724_barbenheimer/</guid>
       <description>I really enjoyed both Barbie &amp;amp; Oppenheimer; I plan to see both again soon, but some initial thoughts:&#xA;Barbie is just so fun to watch, start to finish. The production design is stunningly detailed, the writing is weird &amp;amp; funny, &amp;amp; Ryan Gosling &amp;amp; Margot Robbie both deliver wonderful performances&amp;mdash;Gosling&amp;rsquo;s wonderfully funny, &amp;amp; Robbie&amp;rsquo;s wonderfully subtle. Greta Gerwig adds another film to her already impressive body of work in this sensitive &amp;amp; delightful reflection on the human project of making meaning in the face of uncertainty &amp;amp; death.</description>
     </item>
     <item>
       <title>On teaching Francis &amp; Clare</title>
-      <link>http://blog.andrewbelfield.com/posts/20230623_on-teaching-francis-clare/</link>
+      <link>http://localhost:1313/posts/20230623_on-teaching-francis-clare/</link>
       <pubDate>Fri, 23 Jun 2023 09:08:58 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230623_on-teaching-francis-clare/</guid>
+      <guid>http://localhost:1313/posts/20230623_on-teaching-francis-clare/</guid>
       <description>How to teach a course on Francis &amp;amp; Clare of Assisi?1 The 101 class offered by the Department of Theology &amp;amp; Franciscan Studies at St. Bonaventure University is titled “The Way of Francis &amp;amp; Clare.” This course aims to introduce students to the Franciscan roots that underlie the mission &amp;amp; values of SBU by a semester-long study of the lives &amp;amp; writings of Francis &amp;amp; Clare.&#xA;Teaching such a course is not without its challenges.</description>
     </item>
     <item>
       <title>Reading Anselm</title>
-      <link>http://blog.andrewbelfield.com/posts/20230614_reading-anselm/</link>
+      <link>http://localhost:1313/posts/20230614_reading-anselm/</link>
       <pubDate>Wed, 14 Jun 2023 14:33:33 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230614_reading-anselm/</guid>
+      <guid>http://localhost:1313/posts/20230614_reading-anselm/</guid>
       <description>I admire the aim in Elizabeth Johnson&amp;rsquo;s Creation and the Cross: The Mercy of God for a Planet in Peril: to produce a theology that considers how Jesus&amp;rsquo;s life, death, &amp;amp; resurrection are good news for the whole cosmos, particularly in the context of ecological crisis. &amp;amp; while I don&amp;rsquo;t disagree with some of the conclusions (presented chiefly in book 6), ironically the particularity of Jesus&amp;rsquo;s life (natal &amp;amp; risen) &amp;amp; his death don&amp;rsquo;t seem to determine the conclusions as much as the work&amp;rsquo;s title might lead one to expect.</description>
     </item>
     <item>
       <title>Freely given &amp; gratefully received</title>
-      <link>http://blog.andrewbelfield.com/posts/20230427_freely-given-gratefully-received/</link>
+      <link>http://localhost:1313/posts/20230427_freely-given-gratefully-received/</link>
       <pubDate>Thu, 27 Apr 2023 12:15:31 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230427_freely-given-gratefully-received/</guid>
+      <guid>http://localhost:1313/posts/20230427_freely-given-gratefully-received/</guid>
       <description>&amp;lsquo;What do you keep on arguing for? I&amp;rsquo;m only telling you the sort of chap I am. I only want my rights. I&amp;rsquo;m not asking for anybody&amp;rsquo;s bleeding charity.&amp;rsquo;&#xA;&amp;lsquo;Then do. At once. Ask for the Bleeding Charity. Everything is here for the asking &amp;amp; nothing can be bought.&amp;rsquo;&#xA;This is one of my favorite exchanges in C. S. Lewis&amp;rsquo;s The Great Divorce. Here the &amp;ldquo;Big Man&amp;rdquo; (the first speaker) is insisting on his own decency in his earthly life&amp;mdash;ironic considering the reader is introduced to the Big Man when he beats a man up to take his place in the line for the bus to Heaven&amp;mdash;&amp;amp; how Heaven is therefore his &amp;ldquo;by rights.</description>
     </item>
     <item>
       <title>Love restores the world to order</title>
-      <link>http://blog.andrewbelfield.com/posts/20230423_love-restores-the-world-to-order/</link>
+      <link>http://localhost:1313/posts/20230423_love-restores-the-world-to-order/</link>
       <pubDate>Sun, 23 Apr 2023 14:32:17 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230423_love-restores-the-world-to-order/</guid>
+      <guid>http://localhost:1313/posts/20230423_love-restores-the-world-to-order/</guid>
       <description>Walter Kasper on kingdom of God:&#xA;But when the ultimate source of all reality, God&amp;rsquo;s love, re-establishes itself and comes to power, the world is restored to order and salvation. Because each individual can feel himself accepted and approved without reserve, he becomes free to live with others. The coming of the Kingdom of God&amp;rsquo;s love therefore means the salvation of the world as a whole and the salvation of every individual.</description>
     </item>
     <item>
       <title>A few things you would read if you wanted to figure out what I get out of christianity</title>
-      <link>http://blog.andrewbelfield.com/posts/20230410_a-few-things-you-would-read/</link>
+      <link>http://localhost:1313/posts/20230410_a-few-things-you-would-read/</link>
       <pubDate>Mon, 10 Apr 2023 14:30:02 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20230410_a-few-things-you-would-read/</guid>
+      <guid>http://localhost:1313/posts/20230410_a-few-things-you-would-read/</guid>
       <description>Inspired by Phil Christman&amp;rsquo;s recent post of the same name, here&amp;rsquo;s a list of a few things you would read if you wanted to figure out what I get out of Christianity.&#xA;Here&amp;rsquo;s Christman&amp;rsquo;s own disclaimer regarding his list, which I also make for my own:&#xA;This is not, by the way, a canon or an attempt at canon-making. It’s extremely personal, and reflects my personal circumstances, which are narrow, like everyone’s.</description>
     </item>
     <item>
       <title>Reading in 2022</title>
-      <link>http://blog.andrewbelfield.com/posts/20221231_reading-in-2022/</link>
+      <link>http://localhost:1313/posts/20221231_reading-in-2022/</link>
       <pubDate>Sat, 31 Dec 2022 14:17:41 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20221231_reading-in-2022/</guid>
+      <guid>http://localhost:1313/posts/20221231_reading-in-2022/</guid>
       <description>This year I read 63 books (actually a couple more, as there were some I didn&amp;rsquo;t log), &amp;amp; I tracked my reading with StoryGraph. This graph is so interesting; you can see the effect the fall &amp;amp; spring semesters have on my reading.&#xA;Some of the more engaging books I read this year include:&#xA;Transforming Fire: Imagining Christian Teaching. Mark D. Jordan. The Argonauts. Maggie Nelson. How to Be Normal. Phil Christman.</description>
     </item>
     <item>
       <title>A personal canon (in progress)</title>
-      <link>http://blog.andrewbelfield.com/posts/20220530_personal-canon/</link>
+      <link>http://localhost:1313/posts/20220530_personal-canon/</link>
       <pubDate>Mon, 30 May 2022 14:15:51 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20220530_personal-canon/</guid>
+      <guid>http://localhost:1313/posts/20220530_personal-canon/</guid>
       <description>Yesterday I saw a tweet floating around asking for your &amp;ldquo;personal canon,&amp;rdquo; that is, which are the books that you have used to understand the world? Limiting myself only to written works (and not, say, music or film), here&amp;rsquo;s what I would say, roughly ordered according to when I encountered these books:&#xA;The gospel according to Luke The book of Revelation A Wizard of Earthsea by Ursula K. Le Guin A Christmas Carol by Charles Dickens Les Misérables by Victor Hugo Conjectures of a Guilty Bystander by Thomas Merton Proslogion by Anselm of Canterbury The Plague by Albert Camus The Prophets by Abraham J.</description>
     </item>
     <item>
       <title>El víacrucis</title>
-      <link>http://blog.andrewbelfield.com/posts/20210329_el-viacrucis/</link>
+      <link>http://localhost:1313/posts/20210329_el-viacrucis/</link>
       <pubDate>Mon, 29 Mar 2021 14:08:57 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20210329_el-viacrucis/</guid>
+      <guid>http://localhost:1313/posts/20210329_el-viacrucis/</guid>
       <description>Holy Week of any year&amp;mdash;that week of prayer &amp;amp; fasting ordered to the cross and, eventually, the empty tomb—always has a nearness to the first Holy Week, as the drama of the liturgy moves modern-day Christians through the drama of the passion. Holy Week 2020, however, seemed especially near. The reality of coronavirus was setting in, along with the bitter realization it would be a long time before we could safely gather with family, friends, &amp;amp; religious communities.</description>
     </item>
     <item>
       <title>A Christmas tree blessing</title>
-      <link>http://blog.andrewbelfield.com/posts/20201129_christmas-tree-blessing/</link>
+      <link>http://localhost:1313/posts/20201129_christmas-tree-blessing/</link>
       <pubDate>Sun, 29 Nov 2020 14:07:04 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20201129_christmas-tree-blessing/</guid>
+      <guid>http://localhost:1313/posts/20201129_christmas-tree-blessing/</guid>
       <description>Good &amp;amp; gracious God,&#xA;you who are power &amp;amp; wisdom &amp;amp; goodness—&#xA;Bless this tree,&#xA;a sign of life &amp;amp; freshness &amp;amp; perseverance in our midst.&#xA;May it stand as a reminder&#xA;of light in the dark of night,&#xA;and of life in the dead of winter.&#xA;May its supple branches &amp;amp; sharp, sweet scent&#xA;keep fresh in our minds &amp;amp; our hands&#xA;the mercy &amp;amp; generosity you show&#xA;in all your dealings with your beloved people.</description>
     </item>
     <item>
       <title>On baptism</title>
-      <link>http://blog.andrewbelfield.com/posts/20200922_on-baptism/</link>
+      <link>http://localhost:1313/posts/20200922_on-baptism/</link>
       <pubDate>Tue, 22 Sep 2020 14:04:44 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20200922_on-baptism/</guid>
+      <guid>http://localhost:1313/posts/20200922_on-baptism/</guid>
       <description>Dear C—,1&#xA;This past Sunday, on a cool &amp;amp; bright New York day with the edges of autumn just beginning to creep into the last days of summer, you were baptized. Like autumn into summer, you may find the fact of your baptism—something in which you had no say &amp;amp; of which you have no memory—creeping into your life in strange &amp;amp; unexpected ways; you may not know quite why you were baptized; you may wonder what the point of your baptism was at all.</description>
     </item>
     <item>
       <title>That attention is love</title>
-      <link>http://blog.andrewbelfield.com/posts/20190518_that-attention-is-love/</link>
+      <link>http://localhost:1313/posts/20190518_that-attention-is-love/</link>
       <pubDate>Sat, 18 May 2019 13:30:14 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20190518_that-attention-is-love/</guid>
+      <guid>http://localhost:1313/posts/20190518_that-attention-is-love/</guid>
       <description>In the very year of our engagement, Lady Bird was released.&#xA;Toward the end of this magnanimous film&#xA;the titular character meets with her English teacher, Sister Sarah Joan,&#xA;to discuss a short story she wrote for class.&#xA;That wise nun comments how clearly&#xA;Lady Bird’s love for Sacramento comes through,&#xA;much to Lady Bird’s—and the viewer’s—surprise.&#xA;Up till now we have seen Lady Bird straining&#xA;at the borders of her hometown</description>
     </item>
   </channel>

@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Three-Things on speculatio pauperis in deserto</title>
-    <link>http://blog.andrewbelfield.com/tags/three-things/</link>
+    <link>http://localhost:1313/tags/three-things/</link>
     <description>Recent content in Three-Things on speculatio pauperis in deserto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 15:42:25 -0400</lastBuildDate>
-    <atom:link href="http://blog.andrewbelfield.com/tags/three-things/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 13:45:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/three-things/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three things no. 4</title>
+      <link>http://localhost:1313/posts/2025/0222_three-things/</link>
+      <pubDate>Sat, 22 Feb 2025 13:45:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/0222_three-things/</guid>
+      <description>Blogging (again), working on weekends x 2.</description>
+    </item>
     <item>
       <title>Three things no. 3</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/1019_three-things/</link>
+      <link>http://localhost:1313/posts/2024/1019_three-things/</link>
       <pubDate>Sat, 19 Oct 2024 15:42:25 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/1019_three-things/</guid>
+      <guid>http://localhost:1313/posts/2024/1019_three-things/</guid>
       <description>Forgetting as doctrinal development, the apple tree as a symbol for Christ, &amp;amp; justice &amp;amp; mercy in &lt;em&gt;Les Misérables&lt;/em&gt;.</description>
     </item>
     <item>
       <title>Three things no. 2</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/1005_three-things/</link>
+      <link>http://localhost:1313/posts/2024/1005_three-things/</link>
       <pubDate>Sat, 05 Oct 2024 16:11:29 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/1005_three-things/</guid>
+      <guid>http://localhost:1313/posts/2024/1005_three-things/</guid>
       <description>The early Franciscans refusing to handle coin yet begging for alms, the new Joker movie, &amp;amp; the new Nosferatu trailer.</description>
     </item>
     <item>
       <title>Three things no. 1</title>
-      <link>http://blog.andrewbelfield.com/posts/2024/0928_three-things/</link>
+      <link>http://localhost:1313/posts/2024/0928_three-things/</link>
       <pubDate>Sat, 28 Sep 2024 10:05:02 -0400</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/2024/0928_three-things/</guid>
+      <guid>http://localhost:1313/posts/2024/0928_three-things/</guid>
       <description>Blogging, RSS, &amp;amp; a writing lab</description>
     </item>
   </channel>

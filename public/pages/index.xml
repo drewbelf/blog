@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on speculatio pauperis in deserto</title>
-    <link>http://blog.andrewbelfield.com/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on speculatio pauperis in deserto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://blog.andrewbelfield.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>http://blog.andrewbelfield.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://blog.andrewbelfield.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>On this blog you will find five types of posts. First is opinion, in which I offer my thoughts on news &amp;amp; current events. Second is criticism, in which I offer commentary on literature, film, TV, &amp;amp; other media. Third is speculation, in which I ruminate over theological ideas &amp;amp; questions. Fourth is reflection, in which I reflect on my life &amp;amp; work. Fifth is logbook, in which I keep monthly logs of what I&amp;rsquo;m reading &amp;amp; watching.</description>
     </item>
   </channel>

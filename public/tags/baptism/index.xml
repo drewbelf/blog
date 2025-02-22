@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baptism on speculatio pauperis in deserto</title>
-    <link>http://blog.andrewbelfield.com/tags/baptism/</link>
+    <link>http://localhost:1313/tags/baptism/</link>
     <description>Recent content in Baptism on speculatio pauperis in deserto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Sep 2020 14:04:44 -0500</lastBuildDate>
-    <atom:link href="http://blog.andrewbelfield.com/tags/baptism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/baptism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On baptism</title>
-      <link>http://blog.andrewbelfield.com/posts/20200922_on-baptism/</link>
+      <link>http://localhost:1313/posts/20200922_on-baptism/</link>
       <pubDate>Tue, 22 Sep 2020 14:04:44 -0500</pubDate>
-      <guid>http://blog.andrewbelfield.com/posts/20200922_on-baptism/</guid>
+      <guid>http://localhost:1313/posts/20200922_on-baptism/</guid>
       <description>Dear C—,1&#xA;This past Sunday, on a cool &amp;amp; bright New York day with the edges of autumn just beginning to creep into the last days of summer, you were baptized. Like autumn into summer, you may find the fact of your baptism—something in which you had no say &amp;amp; of which you have no memory—creeping into your life in strange &amp;amp; unexpected ways; you may not know quite why you were baptized; you may wonder what the point of your baptism was at all.</description>
     </item>
   </channel>
